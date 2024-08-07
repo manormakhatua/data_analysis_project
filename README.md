@@ -48,7 +48,7 @@ The analysis indicates that there is a significant variation in salaries, with t
 - Highest Salary: $650,000.00
 - Lowest Salary: $135,000.00
 
-![Top paying companies](Assets\chart.png) 
+![chart](https://github.com/user-attachments/assets/756f6e64-0721-4950-96d6-5656a325472d)
 *Bar graph visualizing the salary for the top 10 companies salary for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -82,7 +82,7 @@ ORDER BY salary_year_avg DESC
 
 The analysis shows that skills like Python and SAS are among the most frequently mentioned in the job postings, indicating their importance in the data analyst field.
 
-![skills for top paying jobs](Assets\skills_for_top_jobs.png)*Bar graph visualizing the top skills for data analysts; ChatGPT generated this graph from my SQL query results*
+![skills_for_top_jobs](https://github.com/user-attachments/assets/30629b23-ef32-40ba-9a36-52d0cf8f4a19)*Bar graph visualizing the top skills for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
 This query helped identify the skills most frequently requested in job postings, directing focus to areas with high demand.
@@ -115,7 +115,7 @@ limit 5;
 
 This analysis indicates that SQL is the most in-demand skill for data analysts, followed by Excel and Python.
 
-![top demand skills](Assets\top_demand_skills.png)
+![top_demand_skills](https://github.com/user-attachments/assets/fc85880f-2e9e-49a8-a956-52fc74715c75)
 *Bar graph visualizing top demand skills for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 4. Skills Based on Salary
